@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website!  
 This site showcases my featured projects, certifications, and resume, and is built using **HTML, CSS, and JavaScript**.
 
-🔗 **Live Website:** [jaiswalkashish_portfolio.github.io](https://jaiswalkashish_portfolio.github.io)
+🔗 **Live Website:** [jaiswalkashish_portfolio.github.io]( https://jaiswalkashish28.github.io/jaiswalkashish_portfolio.github.io/)
 
 ---
 
